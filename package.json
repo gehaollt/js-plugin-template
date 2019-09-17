@@ -1,8 +1,8 @@
 {
-  "name": "curvejs",
-  "version": "0.3.3",
-  "description": "Curve is a dancer.",
-  "main": "dist/curve.js",
+  "name": "js-plugin-template",
+  "version": "0.0.1",
+  "description": "A js plugintemplate.",
+  "main": "dist/js-plugin-template.js",
   "scripts": {
     "dev": "rollup -c",
     "dist": "rollup -c",
@@ -15,33 +15,30 @@
     "sprout": "rollup -c -w",
     "noise": "rollup -c -w",
     "siri-wave": "rollup -c -w",
-    "points-to":"rollup -c -w",
-    "curves": "rollup -c -w",
+    "points-to": "rollup -c -w",
+    "js-plugin-template": "rollup -c -w",
     "scale-to": "rollup -c -w",
     "watch": "rollup -c -w"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AlloyTeam/curvejs.git"
+    "url": "git@github.com:gehaollt/js-plugin-template.git"
   },
   "keywords": [
-    "curvejs",
-    "bezier",
-    "curve",
-    "canvas",
-    "animation",
-    "dance"
+    "js-plugin",
+    "template",
+    "gehaollt"
   ],
-  "author": "dntzhang",
+  "author": "gezhihao",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/AlloyTeam/curvejs/issues"
+    "url": "https://github.com/gehaollt/js-plugin-template/issues"
   },
   "files": [
     "lib",
     "dist"
   ],
-  "homepage": "https://github.com/AlloyTeam/curvejs",
+  "homepage": "https://github.com/gehaollt/js-plugin-template",
   "dependencies": {},
   "devDependencies": {
     "babel-plugin-external-helpers": "^6.18.0",
