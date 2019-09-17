@@ -1,32 +1,12 @@
 ﻿<p align="center">
-  <a href ="##"><img alt="curvejs" src="http://images2015.cnblogs.com/blog/105416/201704/105416-20170416212420259-931391833.png"></a>
+  <a href ="##">js-plugin-template</a>
 </p>
 <p align="center">
-Made curve a dancer in HTML5 canvas. 
+a js plugintemplate
 </p>
 
 ---
-## [中文README](https://github.com/AlloyTeam/curvejs/blob/master/README-CN.md)
-
-## Demos
-
-* [Loading](https://alloyteam.github.io/curvejs/example/loading/)
-* [Rope](https://alloyteam.github.io/curvejs/example/rope/)
-* [Siri-Wave](https://alloyteam.github.io/curvejs/example/siri-wave/)
-* [Water](https://alloyteam.github.io/curvejs/example/water/)
-* [Sprout](https://alloyteam.github.io/curvejs/example/sprout/)
-* [Scale-To](https://alloyteam.github.io/curvejs/pg/rd.html?type=scale)
-* [Points-To](https://alloyteam.github.io/curvejs/pg/rd.html?type=points-to)
-* [Rotate](https://alloyteam.github.io/curvejs/pg/rd.html?type=rotate)
-* [Word](https://alloyteam.github.io/curvejs/pg/rd.html?type=word)
-* [Perlin-Noise](https://alloyteam.github.io/curvejs/pg/rd.html?type=noise)
-* [Simple](https://alloyteam.github.io/curvejs/pg/rd.html?type=simple)
-* [Simple-ES5](https://alloyteam.github.io/curvejs/pg/rd.html?type=simple-es5)
-* [Lerp Color](https://alloyteam.github.io/curvejs/pg/rd.html?type=color)
-* [Curves](https://alloyteam.github.io/curvejs/pg/rd.html?type=curves)
-* [Line](https://alloyteam.github.io/curvejs/pg/rd.html?type=line)
-* [Close](https://alloyteam.github.io/curvejs/pg/rd.html?type=close)
-
+## 
 ## Usage
 
 ```bash
@@ -107,12 +87,12 @@ export default function (points, data) {
 }
 ```
 
-## QQ Group
+## QQ
 
-The group id is 179181560. Welcome to join the group.
+The qq id is 911766388.
 
 ## License
 
 [MIT](http://opensource.org/licenses/MIT)
 
-Copyright (c) 2017-present, dntzhang & AlloyTeam
+Copyright (c) 2019-present, gezhihao
